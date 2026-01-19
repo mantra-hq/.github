@@ -1,17 +1,3 @@
----
-title: "Why We Built Mantra: Taming the Chaos of AI Coding"
-date: 2026-01-10
-category: product
-tags:
-  - engineering
-  - git
-  - architecture
-author: Mantra Team
-authorLink: https://github.com/anthropics
-description: AI coding tools like Claude and Cursor are speeding up development but creating a 'messy room' of scattered logs. Mantra is the local-first 'Time Machine' that reclaims your context, allowing you to replay, aggregate, and master your coding flow securely.
-cover: https://assets.mantra.gonewx.com/images/635aeb94fd971aafab600f893fc2dfd2.jpg
----
-
 # Why We Built Mantra: Taming the Chaos of AI Coding
 
 ![Chaos vs Order](https://assets.mantra.gonewx.com/images/635aeb94fd971aafab600f893fc2dfd2.jpg)
